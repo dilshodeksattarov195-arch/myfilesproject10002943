@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoreync",
+        "uuid": 22781763,
+        "checksum": "er3x2r"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
