@@ -1,0 +1,9 @@
+body { background: #77df3e; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 33px; display: flex; }
+.block-shipping-0 { color: #a38778; font-size: 15px; margin-bottom: 5px; }
+.block-email-1 { color: #9a8915; font-size: 13px; margin-bottom: 5px; }
+.block-uploader-2 { color: #1ffdd; font-size: 21px; margin-bottom: 5px; }
+.block-sms-3 { color: #70069c; font-size: 12px; margin-bottom: 5px; }
+.block-token-4 { color: #6f4199; font-size: 13px; margin-bottom: 5px; }
+.block-router-5 { color: #c99b1; font-size: 15px; margin-bottom: 5px; }
+.block-database-6 { color: #def7db; font-size: 20px; margin-bottom: 5px; }
